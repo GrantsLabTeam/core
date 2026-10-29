@@ -1,0 +1,10 @@
+{
+  "name": "gitcoin-portfolio-export",
+  "private": true,
+  "description": "Exports the Design System Storybook pages to a PDF and a static website",
+  "type": "module",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "playwright": "1.56"
+  }
+}

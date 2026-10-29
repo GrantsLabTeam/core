@@ -21,6 +21,14 @@ const preview: Preview = {
         method: "alphabetical",
         order: [
           "Welcome",
+          "Design System",
+          [
+            "Cover",
+            "Foundations",
+            ["Color", "Typography", "Shape & Elevation", "Iconography", "Brand"],
+            "Components",
+            "Patterns & Screens",
+          ],
           "Docs",
           "Styles",
           "Features",

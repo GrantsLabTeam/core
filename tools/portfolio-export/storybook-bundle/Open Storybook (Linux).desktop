@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Open Storybook (Linux)
+Comment=Gitcoin Design System Storybook
+Exec=sh -c 'exec "$(dirname "$1")/open-storybook-linux.sh"' sh %k
+Icon=web-browser
+Terminal=true
